@@ -1,0 +1,2 @@
+aux_source_directory(${CMAKE_CURRENT_SOURCE_DIR} ATM_STATE_MACHINE_SOURCES)
+add_executable(atm_state_machine ${ATM_STATE_MACHINE_SOURCES})
